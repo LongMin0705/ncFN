@@ -1,4 +1,4 @@
-1.Interaction Data Preprocessing and Network Construction
+1. Interaction Data Preprocessing and Network Construction
 
 2. Random Walk with Restart Algorithm
 
